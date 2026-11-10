@@ -20,11 +20,11 @@ body {
 /* AUTHENTICATION */
 
 .auth-page {
-  min-height: 100vh;
+  min-height: 50vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px;
+  padding: 15px;
   background:
     radial-gradient(circle at 20% 20%, #1e3a5f 0, transparent 35%),
     radial-gradient(circle at 80% 80%, #172554 0, transparent 35%),
